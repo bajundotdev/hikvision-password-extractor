@@ -9,7 +9,7 @@
   "author": "Rob Evans - Irrelon Software Limited",
   "license": "MIT",
   "dependencies": {
-    "cyberchef": "^9.20.3",
+    "cyberchef": "^11.5.0",
     "request": "^2.88.2"
   }
 }
